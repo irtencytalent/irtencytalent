@@ -1,64 +1,36 @@
-# 👋🏻
 <div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+
+# Hey I'm irtency 👋
+## abusing requests since '20
+## wsk
+
+![](https://komarev.com/ghpvc/?username=irtencytalent&color=blueviolet)
+
+<img src="https://discord.c99.nl/widget/theme-1/656883876651728946.png"></img>
+
+![verlox's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=irtencytalent&show_icons=true&theme=radical)
+
 </div>
 
-# I m irtency . 
-## I am a programmer
+## About
+I'm irtency and I typically work with C#, NodeJS, Rust, PHP, and PAWN. I started learning how to code about 2019-20, when I was bored and didn't feel like writing an English essay. Since then, it's grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
+<!--
+## Current projects
+* [Veylib](https://github.com/verlox/Veylib) - Library for C# applications
+* [VeyAPI](https://github.com/verlox/VeyAPI) - The API my site runs off of and the auth piggy backs on
+* [ServerMonitor](https://github.com/verlox/ServerMonitor) - A typescript server monitor with support for Twilio (SMS) and Discord webhooks for alerts with customizable thresholds
+--->
+## Languages I know
+* C#
+* NodeJS
+* Pawn
+* PHP
+* Rust
+* TypeScript
 
-- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50>  I know Python and I love to code in Python . I am proficient in PhP, a web development framework. I also know a bit of machine learning and AI . <br>
-- <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>  I also know Java and like coding in Java .
-- <img src="https://i.giphy.com/media/2vB2oTE8eYuV2Ze4ZU/giphy.webp" width=50 height=50>  I also know Pawn Language and like coding in Pawn, currently working to a project #from zero to hero . 
-- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>  I have built some projects and am planning to build some more.<br>
-
-## My Tech Stack
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-	      <span><strong>Python</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>Pawn</strong></span><br><br><br>
-        <img height="64px" src="https://www.sovahost.net/wp-content/uploads/2020/02/samp-logo-png-6.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
-      </td>
-     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-
-  </tbody>
-</table>
-
-
-![](https://komarev.com/ghpvc/?username=irtencytalent&color=dc143c)
-<br><br><br><br>
-
-# THAT'S ME !
-
+## Long term goals
+* Learn C++/C
+* Get a job as a backend/frontend software engineer
+<!--
+## Disclaimer
+All the code and projects provided (to you, from me) are strictly for educational purposes. I do not encourage use of any of my projects, and they are simply to be used as a proof-of-concept.-->
